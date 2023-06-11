@@ -1,9 +1,7 @@
 # Excel-Projects
 
 Here are project description:
-
 You can use freely...
-
 I hope this can to help you
 
 | Project | Description |
